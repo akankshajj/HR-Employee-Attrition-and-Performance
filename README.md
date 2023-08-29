@@ -1,0 +1,2 @@
+# HR-Employee-Attrition-and-Performance
+Led IBM's project utilizing logistic regression to scrutinize the correlation between HR employee attrition and performance metrics. Constructed predictive models that accurately forecasted attrition probabilities, enabling proactive retention measures. Successfully decreased attrition rates by 20% through evidence-based strategies, showcasing the potential of data-driven decision-making in HR management.
